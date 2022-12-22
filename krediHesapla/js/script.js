@@ -33,4 +33,4 @@ function krediHesapla() {
 }
 
 let btn = document.getElementById('btn');
-btn.addEventListener('click', krediHesapla)
+btn.addEventListener('click', krediHesapla);
